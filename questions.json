@@ -388,5 +388,987 @@
     ],
     "correct": 2,
     "explanation": "Both weigh one ton."
+  },
+  {
+    "id": 31,
+    "category": "Sports",
+    "question": "How many points is a free throw worth in basketball?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 1."
+  },
+  {
+    "id": 32,
+    "category": "Sports",
+    "question": "Which country hosted the 2016 Summer Olympics?",
+    "options": [
+      "China",
+      "Brazil",
+      "Japan",
+      "Greece"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is Brazil."
+  },
+  {
+    "id": 33,
+    "category": "Sports",
+    "question": "In cricket, how many legal balls are in a standard over?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is 6."
+  },
+  {
+    "id": 34,
+    "category": "Sports",
+    "question": "Which sport uses a shuttlecock?",
+    "options": [
+      "Squash",
+      "Badminton",
+      "Table tennis",
+      "Volleyball"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is Badminton."
+  },
+  {
+    "id": 35,
+    "category": "Sports",
+    "question": "What is the maximum break in standard snooker without a free ball?",
+    "options": [
+      "147",
+      "155",
+      "140",
+      "120"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 147."
+  },
+  {
+    "id": 36,
+    "category": "Brands",
+    "question": "Which company makes the PlayStation console?",
+    "options": [
+      "Microsoft",
+      "Nintendo",
+      "Sony",
+      "Sega"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is Sony."
+  },
+  {
+    "id": 37,
+    "category": "Brands",
+    "question": "Which company owns the Instagram platform?",
+    "options": [
+      "Alphabet",
+      "Meta",
+      "Amazon",
+      "Adobe"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is Meta."
+  },
+  {
+    "id": 38,
+    "category": "Brands",
+    "question": "Which brand is associated with the slogan Just Do It?",
+    "options": [
+      "Adidas",
+      "Puma",
+      "Nike",
+      "Reebok"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is Nike."
+  },
+  {
+    "id": 39,
+    "category": "Brands",
+    "question": "Which company developed the iPhone?",
+    "options": [
+      "Samsung",
+      "Apple",
+      "Sony",
+      "Google"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is Apple."
+  },
+  {
+    "id": 40,
+    "category": "Brands",
+    "question": "Which company makes the LEGO brick system?",
+    "options": [
+      "Mattel",
+      "Hasbro",
+      "LEGO Group",
+      "Bandai"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is LEGO Group."
+  },
+  {
+    "id": 41,
+    "category": "Movies",
+    "question": "Who directed the 1997 film Titanic?",
+    "options": [
+      "James Cameron",
+      "Steven Spielberg",
+      "Peter Jackson",
+      "Ridley Scott"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is James Cameron."
+  },
+  {
+    "id": 42,
+    "category": "Movies",
+    "question": "Which film features the fictional planet Pandora?",
+    "options": [
+      "Dune",
+      "Avatar",
+      "Interstellar",
+      "Arrival"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is Avatar."
+  },
+  {
+    "id": 43,
+    "category": "Movies",
+    "question": "Which movie features the character Buzz Lightyear?",
+    "options": [
+      "Cars",
+      "Finding Nemo",
+      "Toy Story",
+      "Up"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is Toy Story."
+  },
+  {
+    "id": 44,
+    "category": "Movies",
+    "question": "In which film series is Hogwarts a school?",
+    "options": [
+      "The Hunger Games",
+      "Harry Potter",
+      "Twilight",
+      "The Maze Runner"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is Harry Potter."
+  },
+  {
+    "id": 45,
+    "category": "Movies",
+    "question": "Which 1993 movie features dinosaurs recreated in a theme park?",
+    "options": [
+      "Jurassic Park",
+      "King Kong",
+      "Godzilla",
+      "Jumanji"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is Jurassic Park."
+  },
+  {
+    "id": 46,
+    "category": "Music",
+    "question": "Which instrument typically has 88 keys?",
+    "options": [
+      "Violin",
+      "Piano",
+      "Trumpet",
+      "Guitar"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is Piano."
+  },
+  {
+    "id": 47,
+    "category": "Music",
+    "question": "Which band recorded Bohemian Rhapsody?",
+    "options": [
+      "Queen",
+      "ABBA",
+      "U2",
+      "Coldplay"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is Queen."
+  },
+  {
+    "id": 48,
+    "category": "Music",
+    "question": "Which singer released the album 1989 in 2014?",
+    "options": [
+      "Adele",
+      "Beyoncé",
+      "Taylor Swift",
+      "Rihanna"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is Taylor Swift."
+  },
+  {
+    "id": 49,
+    "category": "Music",
+    "question": "Which musical symbol raises a note by one semitone?",
+    "options": [
+      "Flat",
+      "Sharp",
+      "Natural",
+      "Rest"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is Sharp."
+  },
+  {
+    "id": 50,
+    "category": "Music",
+    "question": "Which group released the album Abbey Road?",
+    "options": [
+      "The Rolling Stones",
+      "The Beatles",
+      "Pink Floyd",
+      "The Who"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is The Beatles."
+  },
+  {
+    "id": 51,
+    "category": "Places",
+    "question": "What is the capital city of Canada?",
+    "options": [
+      "Toronto",
+      "Vancouver",
+      "Ottawa",
+      "Montreal"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is Ottawa."
+  },
+  {
+    "id": 52,
+    "category": "Places",
+    "question": "Which river flows through Egypt?",
+    "options": [
+      "Nile",
+      "Amazon",
+      "Danube",
+      "Rhine"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is Nile."
+  },
+  {
+    "id": 53,
+    "category": "Places",
+    "question": "Which country contains the city of Kyoto?",
+    "options": [
+      "China",
+      "South Korea",
+      "Japan",
+      "Thailand"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is Japan."
+  },
+  {
+    "id": 54,
+    "category": "Places",
+    "question": "Mount Kilimanjaro is located in which country?",
+    "options": [
+      "Kenya",
+      "Tanzania",
+      "Uganda",
+      "Ethiopia"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is Tanzania."
+  },
+  {
+    "id": 55,
+    "category": "Places",
+    "question": "Which ocean lies between Africa and Australia?",
+    "options": [
+      "Atlantic",
+      "Arctic",
+      "Pacific",
+      "Indian"
+    ],
+    "correct": 3,
+    "explanation": "The correct answer is Indian."
+  },
+  {
+    "id": 56,
+    "category": "Food",
+    "question": "Which grain is traditionally used for risotto?",
+    "options": [
+      "Arborio rice",
+      "Couscous",
+      "Quinoa",
+      "Barley"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is Arborio rice."
+  },
+  {
+    "id": 57,
+    "category": "Food",
+    "question": "Which ingredient gives traditional pesto its characteristic green color?",
+    "options": [
+      "Basil",
+      "Tomato",
+      "Paprika",
+      "Saffron"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is Basil."
+  },
+  {
+    "id": 58,
+    "category": "Food",
+    "question": "Which country is commonly associated with the origin of sushi?",
+    "options": [
+      "China",
+      "Japan",
+      "Vietnam",
+      "India"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is Japan."
+  },
+  {
+    "id": 59,
+    "category": "Food",
+    "question": "Which fruit is dried to make raisins?",
+    "options": [
+      "Grapes",
+      "Plums",
+      "Apricots",
+      "Figs"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is Grapes."
+  },
+  {
+    "id": 60,
+    "category": "Food",
+    "question": "Which ingredient makes bread rise in conventional yeast-leavened baking?",
+    "options": [
+      "Salt",
+      "Yeast",
+      "Butter",
+      "Vinegar"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is Yeast."
+  },
+  {
+    "id": 61,
+    "category": "Science",
+    "question": "What gas do plants absorb during photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Helium"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is Carbon dioxide."
+  },
+  {
+    "id": 62,
+    "category": "Science",
+    "question": "What is the chemical symbol for gold?",
+    "options": [
+      "Ag",
+      "Au",
+      "Fe",
+      "Pb"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is Au."
+  },
+  {
+    "id": 63,
+    "category": "Science",
+    "question": "Which planet has the most prominent ring system visible from Earth?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Saturn",
+      "Mercury"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is Saturn."
+  },
+  {
+    "id": 64,
+    "category": "Science",
+    "question": "What part of a cell contains most of its DNA in typical human cells?",
+    "options": [
+      "Nucleus",
+      "Ribosome",
+      "Cell membrane",
+      "Cytoplasm"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is Nucleus."
+  },
+  {
+    "id": 65,
+    "category": "Science",
+    "question": "Which force keeps planets in orbit around the Sun?",
+    "options": [
+      "Friction",
+      "Gravity",
+      "Magnetism",
+      "Buoyancy"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is Gravity."
+  },
+  {
+    "id": 66,
+    "category": "History",
+    "question": "In what year did the Berlin Wall fall?",
+    "options": [
+      "1979",
+      "1985",
+      "1989",
+      "1995"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is 1989."
+  },
+  {
+    "id": 67,
+    "category": "History",
+    "question": "Which civilization built Machu Picchu?",
+    "options": [
+      "Maya",
+      "Inca",
+      "Aztec",
+      "Roman"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is Inca."
+  },
+  {
+    "id": 68,
+    "category": "History",
+    "question": "Who was the first person to walk on the Moon?",
+    "options": [
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "Neil Armstrong",
+      "Michael Collins"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is Neil Armstrong."
+  },
+  {
+    "id": 69,
+    "category": "Technology",
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Power Utility",
+      "Core Program Upload",
+      "Central Peripheral Unit"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is Central Processing Unit."
+  },
+  {
+    "id": 70,
+    "category": "Technology",
+    "question": "Which protocol is commonly used for encrypted website connections?",
+    "options": [
+      "HTTP",
+      "FTP",
+      "HTTPS",
+      "SMTP"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is HTTPS."
+  },
+  {
+    "id": 71,
+    "category": "Technology",
+    "question": "Which language is primarily used to style web pages?",
+    "options": [
+      "SQL",
+      "CSS",
+      "Python",
+      "Swift"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is CSS."
+  },
+  {
+    "id": 72,
+    "category": "Nature",
+    "question": "What is the largest living species of whale?",
+    "options": [
+      "Humpback whale",
+      "Blue whale",
+      "Orca",
+      "Sperm whale"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is Blue whale."
+  },
+  {
+    "id": 73,
+    "category": "Nature",
+    "question": "Which animal undergoes metamorphosis from caterpillar to adult?",
+    "options": [
+      "Butterfly",
+      "Spider",
+      "Lizard",
+      "Mouse"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is Butterfly."
+  },
+  {
+    "id": 74,
+    "category": "Nature",
+    "question": "What do bees collect from flowers to make honey?",
+    "options": [
+      "Nectar",
+      "Soil",
+      "Seeds",
+      "Leaves"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is Nectar."
+  },
+  {
+    "id": 75,
+    "category": "Nature",
+    "question": "Which layer of Earth lies directly beneath the crust?",
+    "options": [
+      "Inner core",
+      "Outer core",
+      "Mantle",
+      "Atmosphere"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is Mantle."
+  },
+  {
+    "id": 76,
+    "category": "Math",
+    "question": "What is 18 multiplied by 7?",
+    "options": [
+      "116",
+      "124",
+      "126",
+      "136"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is 126."
+  },
+  {
+    "id": 77,
+    "category": "Math",
+    "question": "What is 144 divided by 12?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "14"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is 12."
+  },
+  {
+    "id": 78,
+    "category": "Math",
+    "question": "A box holds 60 pencils. If 17 are removed, how many remain?",
+    "options": [
+      "37",
+      "43",
+      "47",
+      "53"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is 43."
+  },
+  {
+    "id": 79,
+    "category": "Math",
+    "question": "What is 15% of 200?",
+    "options": [
+      "15",
+      "20",
+      "30",
+      "35"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is 30."
+  },
+  {
+    "id": 80,
+    "category": "Math",
+    "question": "What is the next number in the sequence 2, 4, 8, 16, ...?",
+    "options": [
+      "20",
+      "24",
+      "30",
+      "32"
+    ],
+    "correct": 3,
+    "explanation": "The correct answer is 32."
+  },
+  {
+    "id": 81,
+    "category": "Logic",
+    "question": "If every tulip is a flower and some flowers are red, which conclusion must be true?",
+    "options": [
+      "All tulips are red",
+      "Some tulips are red",
+      "All tulips are flowers",
+      "No tulips are red"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is All tulips are flowers."
+  },
+  {
+    "id": 82,
+    "category": "Logic",
+    "question": "A train leaves at 3:15 PM and travels for 90 minutes. When does it arrive?",
+    "options": [
+      "4:15 PM",
+      "4:30 PM",
+      "4:45 PM",
+      "5:15 PM"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is 4:45 PM."
+  },
+  {
+    "id": 83,
+    "category": "Logic",
+    "question": "You have three boxes with four books in each. How many books are there?",
+    "options": [
+      "7",
+      "10",
+      "12",
+      "16"
+    ],
+    "correct": 2,
+    "explanation": "The correct answer is 12."
+  },
+  {
+    "id": 84,
+    "category": "Logic",
+    "question": "A farmer has 12 sheep. All but 5 run away. How many remain?",
+    "options": [
+      "5",
+      "7",
+      "12",
+      "0"
+    ],
+    "correct": 0,
+    "explanation": "The correct answer is 5."
+  },
+  {
+    "id": 85,
+    "category": "Logic",
+    "question": "If today is Monday, what day is it 10 days later?",
+    "options": [
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "correct": 1,
+    "explanation": "The correct answer is Thursday."
+  },
+  {
+    "id": 86,
+    "category": "Sports",
+    "question": "Select all sports played with a racket or racquet.",
+    "options": [
+      "Tennis",
+      "Badminton",
+      "Cricket",
+      "Squash"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "type": "multi",
+    "explanation": "Correct choices: Tennis, Badminton, Squash."
+  },
+  {
+    "id": 87,
+    "category": "Brands",
+    "question": "Select all brands that manufacture smartphones.",
+    "options": [
+      "Samsung",
+      "Apple",
+      "Nike",
+      "Google"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "type": "multi",
+    "explanation": "Correct choices: Samsung, Apple, Google."
+  },
+  {
+    "id": 88,
+    "category": "Movies",
+    "question": "Select all films directed by Christopher Nolan.",
+    "options": [
+      "Inception",
+      "Interstellar",
+      "Avatar",
+      "Dunkirk"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "type": "multi",
+    "explanation": "Correct choices: Inception, Interstellar, Dunkirk."
+  },
+  {
+    "id": 89,
+    "category": "Music",
+    "question": "Select all string instruments.",
+    "options": [
+      "Violin",
+      "Cello",
+      "Trumpet",
+      "Guitar"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "type": "multi",
+    "explanation": "Correct choices: Violin, Cello, Guitar."
+  },
+  {
+    "id": 90,
+    "category": "Places",
+    "question": "Select all countries located in South America.",
+    "options": [
+      "Brazil",
+      "Chile",
+      "Spain",
+      "Peru"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "type": "multi",
+    "explanation": "Correct choices: Brazil, Chile, Peru."
+  },
+  {
+    "id": 91,
+    "category": "Food",
+    "question": "Select all foods commonly made using fermented milk.",
+    "options": [
+      "Yogurt",
+      "Cheese",
+      "Plain rice",
+      "Kefir"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "type": "multi",
+    "explanation": "Correct choices: Yogurt, Cheese, Kefir."
+  },
+  {
+    "id": 92,
+    "category": "Science",
+    "question": "Select all planets classified as gas giants in our solar system.",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Earth",
+      "Mars"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "type": "multi",
+    "explanation": "Correct choices: Jupiter, Saturn."
+  },
+  {
+    "id": 93,
+    "category": "Science",
+    "question": "Select all states of matter from these choices.",
+    "options": [
+      "Solid",
+      "Liquid",
+      "Gravity",
+      "Gas"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "type": "multi",
+    "explanation": "Correct choices: Solid, Liquid, Gas."
+  },
+  {
+    "id": 94,
+    "category": "Math",
+    "question": "Select all prime numbers.",
+    "options": [
+      "2",
+      "9",
+      "11",
+      "15"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "type": "multi",
+    "explanation": "Correct choices: 2, 11."
+  },
+  {
+    "id": 95,
+    "category": "Math",
+    "question": "Select all expressions equal to 24.",
+    "options": [
+      "6 × 4",
+      "30 − 6",
+      "5 × 5",
+      "48 ÷ 2"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "type": "multi",
+    "explanation": "Correct choices: 6 × 4, 30 − 6, 48 ÷ 2."
+  },
+  {
+    "id": 96,
+    "category": "History",
+    "question": "Select all ancient civilizations from these choices.",
+    "options": [
+      "Ancient Egypt",
+      "Roman Empire",
+      "Modern Canada",
+      "Ancient Greece"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "type": "multi",
+    "explanation": "Correct choices: Ancient Egypt, Roman Empire, Ancient Greece."
+  },
+  {
+    "id": 97,
+    "category": "Technology",
+    "question": "Select all programming languages.",
+    "options": [
+      "Python",
+      "Swift",
+      "HTML",
+      "JavaScript"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "type": "multi",
+    "explanation": "Correct choices: Python, Swift, JavaScript."
+  },
+  {
+    "id": 98,
+    "category": "Nature",
+    "question": "Select all mammals.",
+    "options": [
+      "Dolphin",
+      "Bat",
+      "Shark",
+      "Elephant"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "type": "multi",
+    "explanation": "Correct choices: Dolphin, Bat, Elephant."
+  },
+  {
+    "id": 99,
+    "category": "Logic",
+    "question": "Select all even numbers greater than 10.",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "9"
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "type": "multi",
+    "explanation": "Correct choices: 12, 18."
+  },
+  {
+    "id": 100,
+    "category": "Food",
+    "question": "Select all fruits that are citrus fruits.",
+    "options": [
+      "Orange",
+      "Lemon",
+      "Banana",
+      "Lime"
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "type": "multi",
+    "explanation": "Correct choices: Orange, Lemon, Lime."
   }
 ]
