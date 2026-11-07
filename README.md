@@ -10,3 +10,5 @@ The current iOS app recognizes single-answer questions only. Multiple-answer que
 
 ## Privacy
 Static website. No accounts, tracking, or paid API. QR display uses a CDN JavaScript library; the quiz itself needs no external service.
+
+Step 6C-2C: Cache-busted JavaScript and JSON fetch, with visible loading errors. Upload all five files to the repository root.
