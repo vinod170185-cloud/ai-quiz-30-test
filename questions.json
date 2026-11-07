@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "category": "Sports",
+    "question": "How many players from one soccer team are on the field at the start of a standard match?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "correct": 2,
+    "explanation": "A standard soccer team starts with 11 players."
+  },
+  {
+    "id": 2,
+    "category": "Sports",
+    "question": "Which sport uses the terms birdie, eagle, and bogey?",
+    "options": [
+      "Tennis",
+      "Golf",
+      "Cricket",
+      "Baseball"
+    ],
+    "correct": 1,
+    "explanation": "These are golf scoring terms."
+  },
+  {
+    "id": 3,
+    "category": "Sports",
+    "question": "In tennis, what score comes immediately after 30 in a standard game?",
+    "options": [
+      "35",
+      "40",
+      "45",
+      "50"
+    ],
+    "correct": 1,
+    "explanation": "Tennis points proceed 15, 30, 40."
+  },
+  {
+    "id": 4,
+    "category": "Brands",
+    "question": "Which company uses the slogan Just Do It?",
+    "options": [
+      "Adidas",
+      "Nike",
+      "Puma",
+      "Reebok"
+    ],
+    "correct": 1,
+    "explanation": "Just Do It is associated with Nike."
+  },
+  {
+    "id": 5,
+    "category": "Brands",
+    "question": "Which brand is known for a logo showing a bitten apple?",
+    "options": [
+      "Samsung",
+      "Apple",
+      "Sony",
+      "Dell"
+    ],
+    "correct": 1,
+    "explanation": "Apple uses a bitten-apple logo."
+  },
+  {
+    "id": 6,
+    "category": "Brands",
+    "question": "Which company makes the PlayStation console?",
+    "options": [
+      "Nintendo",
+      "Microsoft",
+      "Sony",
+      "Sega"
+    ],
+    "correct": 2,
+    "explanation": "Sony makes PlayStation."
+  },
+  {
+    "id": 7,
+    "category": "Movies",
+    "question": "In the 1997 film Titanic, what is the name of the ship?",
+    "options": [
+      "Britannic",
+      "Olympic",
+      "Titanic",
+      "Queen Mary"
+    ],
+    "correct": 2,
+    "explanation": "The ship is Titanic."
+  },
+  {
+    "id": 8,
+    "category": "Movies",
+    "question": "Which animated film features the song Let It Go?",
+    "options": [
+      "Moana",
+      "Frozen",
+      "Tangled",
+      "Brave"
+    ],
+    "correct": 1,
+    "explanation": "Let It Go appears in Frozen."
+  },
+  {
+    "id": 9,
+    "category": "Movies",
+    "question": "What is the name of the cowboy toy in Toy Story?",
+    "options": [
+      "Buzz",
+      "Woody",
+      "Rex",
+      "Slinky"
+    ],
+    "correct": 1,
+    "explanation": "Woody is the cowboy toy."
+  },
+  {
+    "id": 10,
+    "category": "Music",
+    "question": "Which instrument typically has 88 keys?",
+    "options": [
+      "Guitar",
+      "Violin",
+      "Piano",
+      "Flute"
+    ],
+    "correct": 2,
+    "explanation": "A standard modern piano has 88 keys."
+  },
+  {
+    "id": 11,
+    "category": "Music",
+    "question": "Which band released the album Abbey Road?",
+    "options": [
+      "Queen",
+      "The Beatles",
+      "ABBA",
+      "Coldplay"
+    ],
+    "correct": 1,
+    "explanation": "Abbey Road is an album by the Beatles."
+  },
+  {
+    "id": 12,
+    "category": "Music",
+    "question": "What does BPM stand for in music?",
+    "options": [
+      "Beats Per Minute",
+      "Bars Per Melody",
+      "Bass Pitch Measure",
+      "Beat Pattern Mode"
+    ],
+    "correct": 0,
+    "explanation": "BPM means beats per minute."
+  },
+  {
+    "id": 13,
+    "category": "Places",
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Kyoto",
+      "Osaka",
+      "Tokyo",
+      "Nagoya"
+    ],
+    "correct": 2,
+    "explanation": "Tokyo is Japan’s capital."
+  },
+  {
+    "id": 14,
+    "category": "Places",
+    "question": "Which continent is the Sahara Desert primarily located on?",
+    "options": [
+      "Asia",
+      "Africa",
+      "Australia",
+      "Europe"
+    ],
+    "correct": 1,
+    "explanation": "The Sahara is in northern Africa."
+  },
+  {
+    "id": 15,
+    "category": "Places",
+    "question": "Which country is home to the city of Machu Picchu?",
+    "options": [
+      "Chile",
+      "Mexico",
+      "Peru",
+      "Bolivia"
+    ],
+    "correct": 2,
+    "explanation": "Machu Picchu is in Peru."
+  },
+  {
+    "id": 16,
+    "category": "Food",
+    "question": "Which ingredient is traditionally used to make hummus?",
+    "options": [
+      "Chickpeas",
+      "Potatoes",
+      "Rice",
+      "Lentils"
+    ],
+    "correct": 0,
+    "explanation": "Chickpeas are the main ingredient in hummus."
+  },
+  {
+    "id": 17,
+    "category": "Food",
+    "question": "Which spice gives many curries a yellow color?",
+    "options": [
+      "Cinnamon",
+      "Turmeric",
+      "Cloves",
+      "Paprika"
+    ],
+    "correct": 1,
+    "explanation": "Turmeric provides a yellow color."
+  },
+  {
+    "id": 18,
+    "category": "Food",
+    "question": "What type of food is tofu primarily made from?",
+    "options": [
+      "Soybeans",
+      "Wheat",
+      "Corn",
+      "Milk"
+    ],
+    "correct": 0,
+    "explanation": "Tofu is made from soybeans."
+  },
+  {
+    "id": 19,
+    "category": "Science",
+    "question": "What gas do plants absorb during photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "correct": 2,
+    "explanation": "Plants absorb carbon dioxide during photosynthesis."
+  },
+  {
+    "id": 20,
+    "category": "Science",
+    "question": "What is the chemical symbol for gold?",
+    "options": [
+      "Ag",
+      "Au",
+      "Gd",
+      "Go"
+    ],
+    "correct": 1,
+    "explanation": "Gold has the chemical symbol Au."
+  },
+  {
+    "id": 21,
+    "category": "Science",
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
+    ],
+    "correct": 1,
+    "explanation": "Mars is called the Red Planet."
+  },
+  {
+    "id": 22,
+    "category": "Math",
+    "question": "What is 13 + 18?",
+    "options": [
+      "29",
+      "30",
+      "31",
+      "32"
+    ],
+    "correct": 2,
+    "explanation": "13 plus 18 equals 31."
+  },
+  {
+    "id": 23,
+    "category": "Math",
+    "question": "A basket contains 45 mangoes. You take 3 mangoes out. How many mangoes remain in the basket?",
+    "options": [
+      "3",
+      "42",
+      "45",
+      "48"
+    ],
+    "correct": 1,
+    "explanation": "45 minus 3 equals 42."
+  },
+  {
+    "id": 24,
+    "category": "Math",
+    "question": "What is 15% of 200?",
+    "options": [
+      "15",
+      "20",
+      "30",
+      "40"
+    ],
+    "correct": 2,
+    "explanation": "0.15 times 200 equals 30."
+  },
+  {
+    "id": 25,
+    "category": "History",
+    "question": "In which year did the first humans land on the Moon?",
+    "options": [
+      "1959",
+      "1969",
+      "1979",
+      "1989"
+    ],
+    "correct": 1,
+    "explanation": "Apollo 11 landed on the Moon in 1969."
+  },
+  {
+    "id": 26,
+    "category": "Technology",
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Power Utility",
+      "Core Program Upload",
+      "Central Pixel Unit"
+    ],
+    "correct": 0,
+    "explanation": "CPU means Central Processing Unit."
+  },
+  {
+    "id": 27,
+    "category": "Nature",
+    "question": "Which animal is the largest living mammal?",
+    "options": [
+      "African elephant",
+      "Blue whale",
+      "Giraffe",
+      "Hippopotamus"
+    ],
+    "correct": 1,
+    "explanation": "The blue whale is the largest living mammal."
+  },
+  {
+    "id": 28,
+    "category": "Logic",
+    "question": "If you pass the person in second place in a race, what place are you in?",
+    "options": [
+      "First",
+      "Second",
+      "Third",
+      "Fourth"
+    ],
+    "correct": 1,
+    "explanation": "Passing second place puts you in second place."
+  },
+  {
+    "id": 29,
+    "category": "Logic",
+    "question": "Jimmy’s father has three sons: April, May, and who?",
+    "options": [
+      "June",
+      "July",
+      "Jimmy",
+      "March"
+    ],
+    "correct": 2,
+    "explanation": "Jimmy is named in the question."
+  },
+  {
+    "id": 30,
+    "category": "Logic",
+    "question": "Which is heavier: one ton of bricks or one ton of feathers?",
+    "options": [
+      "Bricks",
+      "Feathers",
+      "They weigh the same",
+      "Cannot tell"
+    ],
+    "correct": 2,
+    "explanation": "Both weigh one ton."
+  }
+]
