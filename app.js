@@ -14,12 +14,12 @@ async function load(){
   const startButton=$('start');
   try {
     const url=new URL('questions.json',document.baseURI);
-    url.searchParams.set('v','6C2C-100');
+    url.searchParams.set('v','6C2G4-50');
     const response=await fetch(url.toString(),{cache:'no-store'});
     if(!response.ok)throw new Error('Questions request returned HTTP '+response.status);
     const data=await response.json();
     if(!Array.isArray(data))throw new Error('Question file must contain a JSON array.');
-    if(data.length!==100)throw new Error('Expected 100 questions, received '+data.length+'.');
+    if(data.length!==50)throw new Error('Expected 50 questions, received '+data.length+'.');
     for(let i=0;i<data.length;i++){
       const q=data[i];
       if(!q||typeof q.question!=='string'||!Array.isArray(q.options)||q.options.length!==4||!q.options.every(v=>typeof v==='string'))throw new Error('Invalid question at position '+(i+1));

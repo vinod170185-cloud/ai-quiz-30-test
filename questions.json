@@ -13,32 +13,6 @@
     "explanation": "A standard soccer team starts with 11 players."
   },
   {
-    "id": 2,
-    "category": "Sports",
-    "question": "Which sport uses the terms birdie, eagle, and bogey?",
-    "options": [
-      "Tennis",
-      "Golf",
-      "Cricket",
-      "Baseball"
-    ],
-    "correct": 1,
-    "explanation": "These are golf scoring terms."
-  },
-  {
-    "id": 3,
-    "category": "Sports",
-    "question": "In tennis, what score comes immediately after 30 in a standard game?",
-    "options": [
-      "35",
-      "40",
-      "45",
-      "50"
-    ],
-    "correct": 1,
-    "explanation": "Tennis points proceed 15, 30, 40."
-  },
-  {
     "id": 4,
     "category": "Brands",
     "question": "Which company uses the slogan Just Do It?",
@@ -50,32 +24,6 @@
     ],
     "correct": 1,
     "explanation": "Just Do It is associated with Nike."
-  },
-  {
-    "id": 5,
-    "category": "Brands",
-    "question": "Which brand is known for a logo showing a bitten apple?",
-    "options": [
-      "Samsung",
-      "Apple",
-      "Sony",
-      "Dell"
-    ],
-    "correct": 1,
-    "explanation": "Apple uses a bitten-apple logo."
-  },
-  {
-    "id": 6,
-    "category": "Brands",
-    "question": "Which company makes the PlayStation console?",
-    "options": [
-      "Nintendo",
-      "Microsoft",
-      "Sony",
-      "Sega"
-    ],
-    "correct": 2,
-    "explanation": "Sony makes PlayStation."
   },
   {
     "id": 7,
@@ -91,32 +39,6 @@
     "explanation": "The ship is Titanic."
   },
   {
-    "id": 8,
-    "category": "Movies",
-    "question": "Which animated film features the song Let It Go?",
-    "options": [
-      "Moana",
-      "Frozen",
-      "Tangled",
-      "Brave"
-    ],
-    "correct": 1,
-    "explanation": "Let It Go appears in Frozen."
-  },
-  {
-    "id": 9,
-    "category": "Movies",
-    "question": "What is the name of the cowboy toy in Toy Story?",
-    "options": [
-      "Buzz",
-      "Woody",
-      "Rex",
-      "Slinky"
-    ],
-    "correct": 1,
-    "explanation": "Woody is the cowboy toy."
-  },
-  {
     "id": 10,
     "category": "Music",
     "question": "Which instrument typically has 88 keys?",
@@ -128,32 +50,6 @@
     ],
     "correct": 2,
     "explanation": "A standard modern piano has 88 keys."
-  },
-  {
-    "id": 11,
-    "category": "Music",
-    "question": "Which band released the album Abbey Road?",
-    "options": [
-      "Queen",
-      "The Beatles",
-      "ABBA",
-      "Coldplay"
-    ],
-    "correct": 1,
-    "explanation": "Abbey Road is an album by the Beatles."
-  },
-  {
-    "id": 12,
-    "category": "Music",
-    "question": "What does BPM stand for in music?",
-    "options": [
-      "Beats Per Minute",
-      "Bars Per Melody",
-      "Bass Pitch Measure",
-      "Beat Pattern Mode"
-    ],
-    "correct": 0,
-    "explanation": "BPM means beats per minute."
   },
   {
     "id": 13,
@@ -169,32 +65,6 @@
     "explanation": "Tokyo is Japan’s capital."
   },
   {
-    "id": 14,
-    "category": "Places",
-    "question": "Which continent is the Sahara Desert primarily located on?",
-    "options": [
-      "Asia",
-      "Africa",
-      "Australia",
-      "Europe"
-    ],
-    "correct": 1,
-    "explanation": "The Sahara is in northern Africa."
-  },
-  {
-    "id": 15,
-    "category": "Places",
-    "question": "Which country is home to the city of Machu Picchu?",
-    "options": [
-      "Chile",
-      "Mexico",
-      "Peru",
-      "Bolivia"
-    ],
-    "correct": 2,
-    "explanation": "Machu Picchu is in Peru."
-  },
-  {
     "id": 16,
     "category": "Food",
     "question": "Which ingredient is traditionally used to make hummus?",
@@ -206,32 +76,6 @@
     ],
     "correct": 0,
     "explanation": "Chickpeas are the main ingredient in hummus."
-  },
-  {
-    "id": 17,
-    "category": "Food",
-    "question": "Which spice gives many curries a yellow color?",
-    "options": [
-      "Cinnamon",
-      "Turmeric",
-      "Cloves",
-      "Paprika"
-    ],
-    "correct": 1,
-    "explanation": "Turmeric provides a yellow color."
-  },
-  {
-    "id": 18,
-    "category": "Food",
-    "question": "What type of food is tofu primarily made from?",
-    "options": [
-      "Soybeans",
-      "Wheat",
-      "Corn",
-      "Milk"
-    ],
-    "correct": 0,
-    "explanation": "Tofu is made from soybeans."
   },
   {
     "id": 19,
@@ -258,19 +102,6 @@
     ],
     "correct": 1,
     "explanation": "Gold has the chemical symbol Au."
-  },
-  {
-    "id": 21,
-    "category": "Science",
-    "question": "Which planet is known as the Red Planet?",
-    "options": [
-      "Venus",
-      "Mars",
-      "Jupiter",
-      "Mercury"
-    ],
-    "correct": 1,
-    "explanation": "Mars is called the Red Planet."
   },
   {
     "id": 22,
@@ -403,19 +234,6 @@
     "explanation": "The correct answer is 1."
   },
   {
-    "id": 32,
-    "category": "Sports",
-    "question": "Which country hosted the 2016 Summer Olympics?",
-    "options": [
-      "China",
-      "Brazil",
-      "Japan",
-      "Greece"
-    ],
-    "correct": 1,
-    "explanation": "The correct answer is Brazil."
-  },
-  {
     "id": 33,
     "category": "Sports",
     "question": "In cricket, how many legal balls are in a standard over?",
@@ -427,45 +245,6 @@
     ],
     "correct": 2,
     "explanation": "The correct answer is 6."
-  },
-  {
-    "id": 34,
-    "category": "Sports",
-    "question": "Which sport uses a shuttlecock?",
-    "options": [
-      "Squash",
-      "Badminton",
-      "Table tennis",
-      "Volleyball"
-    ],
-    "correct": 1,
-    "explanation": "The correct answer is Badminton."
-  },
-  {
-    "id": 35,
-    "category": "Sports",
-    "question": "What is the maximum break in standard snooker without a free ball?",
-    "options": [
-      "147",
-      "155",
-      "140",
-      "120"
-    ],
-    "correct": 0,
-    "explanation": "The correct answer is 147."
-  },
-  {
-    "id": 36,
-    "category": "Brands",
-    "question": "Which company makes the PlayStation console?",
-    "options": [
-      "Microsoft",
-      "Nintendo",
-      "Sony",
-      "Sega"
-    ],
-    "correct": 2,
-    "explanation": "The correct answer is Sony."
   },
   {
     "id": 37,
@@ -481,45 +260,6 @@
     "explanation": "The correct answer is Meta."
   },
   {
-    "id": 38,
-    "category": "Brands",
-    "question": "Which brand is associated with the slogan Just Do It?",
-    "options": [
-      "Adidas",
-      "Puma",
-      "Nike",
-      "Reebok"
-    ],
-    "correct": 2,
-    "explanation": "The correct answer is Nike."
-  },
-  {
-    "id": 39,
-    "category": "Brands",
-    "question": "Which company developed the iPhone?",
-    "options": [
-      "Samsung",
-      "Apple",
-      "Sony",
-      "Google"
-    ],
-    "correct": 1,
-    "explanation": "The correct answer is Apple."
-  },
-  {
-    "id": 40,
-    "category": "Brands",
-    "question": "Which company makes the LEGO brick system?",
-    "options": [
-      "Mattel",
-      "Hasbro",
-      "LEGO Group",
-      "Bandai"
-    ],
-    "correct": 2,
-    "explanation": "The correct answer is LEGO Group."
-  },
-  {
     "id": 41,
     "category": "Movies",
     "question": "Who directed the 1997 film Titanic?",
@@ -531,71 +271,6 @@
     ],
     "correct": 0,
     "explanation": "The correct answer is James Cameron."
-  },
-  {
-    "id": 42,
-    "category": "Movies",
-    "question": "Which film features the fictional planet Pandora?",
-    "options": [
-      "Dune",
-      "Avatar",
-      "Interstellar",
-      "Arrival"
-    ],
-    "correct": 1,
-    "explanation": "The correct answer is Avatar."
-  },
-  {
-    "id": 43,
-    "category": "Movies",
-    "question": "Which movie features the character Buzz Lightyear?",
-    "options": [
-      "Cars",
-      "Finding Nemo",
-      "Toy Story",
-      "Up"
-    ],
-    "correct": 2,
-    "explanation": "The correct answer is Toy Story."
-  },
-  {
-    "id": 44,
-    "category": "Movies",
-    "question": "In which film series is Hogwarts a school?",
-    "options": [
-      "The Hunger Games",
-      "Harry Potter",
-      "Twilight",
-      "The Maze Runner"
-    ],
-    "correct": 1,
-    "explanation": "The correct answer is Harry Potter."
-  },
-  {
-    "id": 45,
-    "category": "Movies",
-    "question": "Which 1993 movie features dinosaurs recreated in a theme park?",
-    "options": [
-      "Jurassic Park",
-      "King Kong",
-      "Godzilla",
-      "Jumanji"
-    ],
-    "correct": 0,
-    "explanation": "The correct answer is Jurassic Park."
-  },
-  {
-    "id": 46,
-    "category": "Music",
-    "question": "Which instrument typically has 88 keys?",
-    "options": [
-      "Violin",
-      "Piano",
-      "Trumpet",
-      "Guitar"
-    ],
-    "correct": 1,
-    "explanation": "The correct answer is Piano."
   },
   {
     "id": 47,
@@ -611,45 +286,6 @@
     "explanation": "The correct answer is Queen."
   },
   {
-    "id": 48,
-    "category": "Music",
-    "question": "Which singer released the album 1989 in 2014?",
-    "options": [
-      "Adele",
-      "Beyoncé",
-      "Taylor Swift",
-      "Rihanna"
-    ],
-    "correct": 2,
-    "explanation": "The correct answer is Taylor Swift."
-  },
-  {
-    "id": 49,
-    "category": "Music",
-    "question": "Which musical symbol raises a note by one semitone?",
-    "options": [
-      "Flat",
-      "Sharp",
-      "Natural",
-      "Rest"
-    ],
-    "correct": 1,
-    "explanation": "The correct answer is Sharp."
-  },
-  {
-    "id": 50,
-    "category": "Music",
-    "question": "Which group released the album Abbey Road?",
-    "options": [
-      "The Rolling Stones",
-      "The Beatles",
-      "Pink Floyd",
-      "The Who"
-    ],
-    "correct": 1,
-    "explanation": "The correct answer is The Beatles."
-  },
-  {
     "id": 51,
     "category": "Places",
     "question": "What is the capital city of Canada?",
@@ -661,58 +297,6 @@
     ],
     "correct": 2,
     "explanation": "The correct answer is Ottawa."
-  },
-  {
-    "id": 52,
-    "category": "Places",
-    "question": "Which river flows through Egypt?",
-    "options": [
-      "Nile",
-      "Amazon",
-      "Danube",
-      "Rhine"
-    ],
-    "correct": 0,
-    "explanation": "The correct answer is Nile."
-  },
-  {
-    "id": 53,
-    "category": "Places",
-    "question": "Which country contains the city of Kyoto?",
-    "options": [
-      "China",
-      "South Korea",
-      "Japan",
-      "Thailand"
-    ],
-    "correct": 2,
-    "explanation": "The correct answer is Japan."
-  },
-  {
-    "id": 54,
-    "category": "Places",
-    "question": "Mount Kilimanjaro is located in which country?",
-    "options": [
-      "Kenya",
-      "Tanzania",
-      "Uganda",
-      "Ethiopia"
-    ],
-    "correct": 1,
-    "explanation": "The correct answer is Tanzania."
-  },
-  {
-    "id": 55,
-    "category": "Places",
-    "question": "Which ocean lies between Africa and Australia?",
-    "options": [
-      "Atlantic",
-      "Arctic",
-      "Pacific",
-      "Indian"
-    ],
-    "correct": 3,
-    "explanation": "The correct answer is Indian."
   },
   {
     "id": 56,
@@ -728,84 +312,6 @@
     "explanation": "The correct answer is Arborio rice."
   },
   {
-    "id": 57,
-    "category": "Food",
-    "question": "Which ingredient gives traditional pesto its characteristic green color?",
-    "options": [
-      "Basil",
-      "Tomato",
-      "Paprika",
-      "Saffron"
-    ],
-    "correct": 0,
-    "explanation": "The correct answer is Basil."
-  },
-  {
-    "id": 58,
-    "category": "Food",
-    "question": "Which country is commonly associated with the origin of sushi?",
-    "options": [
-      "China",
-      "Japan",
-      "Vietnam",
-      "India"
-    ],
-    "correct": 1,
-    "explanation": "The correct answer is Japan."
-  },
-  {
-    "id": 59,
-    "category": "Food",
-    "question": "Which fruit is dried to make raisins?",
-    "options": [
-      "Grapes",
-      "Plums",
-      "Apricots",
-      "Figs"
-    ],
-    "correct": 0,
-    "explanation": "The correct answer is Grapes."
-  },
-  {
-    "id": 60,
-    "category": "Food",
-    "question": "Which ingredient makes bread rise in conventional yeast-leavened baking?",
-    "options": [
-      "Salt",
-      "Yeast",
-      "Butter",
-      "Vinegar"
-    ],
-    "correct": 1,
-    "explanation": "The correct answer is Yeast."
-  },
-  {
-    "id": 61,
-    "category": "Science",
-    "question": "What gas do plants absorb during photosynthesis?",
-    "options": [
-      "Oxygen",
-      "Nitrogen",
-      "Carbon dioxide",
-      "Helium"
-    ],
-    "correct": 2,
-    "explanation": "The correct answer is Carbon dioxide."
-  },
-  {
-    "id": 62,
-    "category": "Science",
-    "question": "What is the chemical symbol for gold?",
-    "options": [
-      "Ag",
-      "Au",
-      "Fe",
-      "Pb"
-    ],
-    "correct": 1,
-    "explanation": "The correct answer is Au."
-  },
-  {
     "id": 63,
     "category": "Science",
     "question": "Which planet has the most prominent ring system visible from Earth?",
@@ -817,32 +323,6 @@
     ],
     "correct": 2,
     "explanation": "The correct answer is Saturn."
-  },
-  {
-    "id": 64,
-    "category": "Science",
-    "question": "What part of a cell contains most of its DNA in typical human cells?",
-    "options": [
-      "Nucleus",
-      "Ribosome",
-      "Cell membrane",
-      "Cytoplasm"
-    ],
-    "correct": 0,
-    "explanation": "The correct answer is Nucleus."
-  },
-  {
-    "id": 65,
-    "category": "Science",
-    "question": "Which force keeps planets in orbit around the Sun?",
-    "options": [
-      "Friction",
-      "Gravity",
-      "Magnetism",
-      "Buoyancy"
-    ],
-    "correct": 1,
-    "explanation": "The correct answer is Gravity."
   },
   {
     "id": 66,
@@ -858,45 +338,6 @@
     "explanation": "The correct answer is 1989."
   },
   {
-    "id": 67,
-    "category": "History",
-    "question": "Which civilization built Machu Picchu?",
-    "options": [
-      "Maya",
-      "Inca",
-      "Aztec",
-      "Roman"
-    ],
-    "correct": 1,
-    "explanation": "The correct answer is Inca."
-  },
-  {
-    "id": 68,
-    "category": "History",
-    "question": "Who was the first person to walk on the Moon?",
-    "options": [
-      "Buzz Aldrin",
-      "Yuri Gagarin",
-      "Neil Armstrong",
-      "Michael Collins"
-    ],
-    "correct": 2,
-    "explanation": "The correct answer is Neil Armstrong."
-  },
-  {
-    "id": 69,
-    "category": "Technology",
-    "question": "What does CPU stand for?",
-    "options": [
-      "Central Processing Unit",
-      "Computer Power Utility",
-      "Core Program Upload",
-      "Central Peripheral Unit"
-    ],
-    "correct": 0,
-    "explanation": "The correct answer is Central Processing Unit."
-  },
-  {
     "id": 70,
     "category": "Technology",
     "question": "Which protocol is commonly used for encrypted website connections?",
@@ -910,19 +351,6 @@
     "explanation": "The correct answer is HTTPS."
   },
   {
-    "id": 71,
-    "category": "Technology",
-    "question": "Which language is primarily used to style web pages?",
-    "options": [
-      "SQL",
-      "CSS",
-      "Python",
-      "Swift"
-    ],
-    "correct": 1,
-    "explanation": "The correct answer is CSS."
-  },
-  {
     "id": 72,
     "category": "Nature",
     "question": "What is the largest living species of whale?",
@@ -934,45 +362,6 @@
     ],
     "correct": 1,
     "explanation": "The correct answer is Blue whale."
-  },
-  {
-    "id": 73,
-    "category": "Nature",
-    "question": "Which animal undergoes metamorphosis from caterpillar to adult?",
-    "options": [
-      "Butterfly",
-      "Spider",
-      "Lizard",
-      "Mouse"
-    ],
-    "correct": 0,
-    "explanation": "The correct answer is Butterfly."
-  },
-  {
-    "id": 74,
-    "category": "Nature",
-    "question": "What do bees collect from flowers to make honey?",
-    "options": [
-      "Nectar",
-      "Soil",
-      "Seeds",
-      "Leaves"
-    ],
-    "correct": 0,
-    "explanation": "The correct answer is Nectar."
-  },
-  {
-    "id": 75,
-    "category": "Nature",
-    "question": "Which layer of Earth lies directly beneath the crust?",
-    "options": [
-      "Inner core",
-      "Outer core",
-      "Mantle",
-      "Atmosphere"
-    ],
-    "correct": 2,
-    "explanation": "The correct answer is Mantle."
   },
   {
     "id": 76,
@@ -1012,32 +401,6 @@
     ],
     "correct": 1,
     "explanation": "The correct answer is 43."
-  },
-  {
-    "id": 79,
-    "category": "Math",
-    "question": "What is 15% of 200?",
-    "options": [
-      "15",
-      "20",
-      "30",
-      "35"
-    ],
-    "correct": 2,
-    "explanation": "The correct answer is 30."
-  },
-  {
-    "id": 80,
-    "category": "Math",
-    "question": "What is the next number in the sequence 2, 4, 8, 16, ...?",
-    "options": [
-      "20",
-      "24",
-      "30",
-      "32"
-    ],
-    "correct": 3,
-    "explanation": "The correct answer is 32."
   },
   {
     "id": 81,
@@ -1090,19 +453,6 @@
     ],
     "correct": 0,
     "explanation": "The correct answer is 5."
-  },
-  {
-    "id": 85,
-    "category": "Logic",
-    "question": "If today is Monday, what day is it 10 days later?",
-    "options": [
-      "Wednesday",
-      "Thursday",
-      "Friday",
-      "Saturday"
-    ],
-    "correct": 1,
-    "explanation": "The correct answer is Thursday."
   },
   {
     "id": 86,

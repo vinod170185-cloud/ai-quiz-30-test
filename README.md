@@ -1,14 +1,15 @@
-# AI Quiz Assistant — 100-Question Performance Challenge
+# AI Quiz Assistant — 50-Question Performance Challenge
 
-100 questions: 85 single-answer (including logic/math) and 15 select-all-that-apply.
+50 fixed questions from the original 100-question bank: 35 single-answer and all 15 select-all-that-apply questions. Original question IDs and answer keys are preserved, including previously problematic questions (basket/mangoes, basketball, cricket, pencils, tulips, books, sheep). Questions appear in a fixed order for comparable repeat tests.
 
-## GitHub Pages update
-Upload `index.html`, `style.css`, `app.js`, `questions.json`, and `README.md` to the existing repository root, replacing the earlier files. GitHub Pages remains set to main / (root). The existing website URL and QR code remain valid.
+## Update the existing GitHub Pages site
+Upload all five files (`index.html`, `style.css`, `app.js`, `questions.json`, `README.md`) to the existing repository root, replacing the current versions. Keep GitHub Pages configured to main / (root). The existing website URL and QR code remain valid.
 
-## Important iOS compatibility
-The current iOS app recognizes single-answer questions only. Multiple-answer questions are intended to test the next app update. The site reveals the complete correct-answer set only after Check Answers. Do not count a single-option AI suggestion as a valid multi-answer response.
+## iOS testing
+The quiz supports both single-answer and select-all questions. Select-all questions require tapping Check Answers. Website correct-answer outlines appear after submission and are separate from any app-added AI suggestion outline. A score of 50/50 is a website score for answers submitted, not necessarily a direct measure of AI suggestion accuracy.
+
+## Loading and caching
+The page uses `app.js?v=6C2G4`, and JavaScript fetches `questions.json?v=6C2G4-50` without caching. If the page says Unable to load questions, confirm all five files were uploaded and refresh.
 
 ## Privacy
-Static website. No accounts, tracking, or paid API. QR display uses a CDN JavaScript library; the quiz itself needs no external service.
-
-Step 6C-2C: Cache-busted JavaScript and JSON fetch, with visible loading errors. Upload all five files to the repository root.
+Static website. No accounts, tracking, or paid API. QR rendering uses a CDN library; the quiz itself needs no external service.
